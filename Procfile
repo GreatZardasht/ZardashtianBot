@@ -1,1 +1,1 @@
-worker: python Jacko.py
+worker: python ZardashtianBot.py
