@@ -5,7 +5,6 @@ import asyncio
 from discord.ext import commands
 import aiohttp
 import box
-from .utils.utils import Utils
 
 client = commands.Bot(command_prefix='Z-')
 
